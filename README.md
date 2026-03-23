@@ -80,4 +80,8 @@ This project is released under an open license to support learning, teaching, an
 
 ---
 
+Amazon Link: https://a.co/d/0g8BhKlL 
+
+---
+
 For questions or additional context, refer to the accompanying book's **Code Access** section.
